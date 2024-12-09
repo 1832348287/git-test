@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("这是hot-fix分支修改的内容");
         System.out.println("这是master分支修改的内容");
         System.out.println("这是hot-fix分支修改的内容");
+        System.out.println("push test");
     }
 }
